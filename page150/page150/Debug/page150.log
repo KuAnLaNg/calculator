@@ -1,0 +1,7 @@
+﻿  源.cpp
+  Token.cpp
+  正在生成代码...
+c:\users\langk\documents\visual studio 2017\projects\page150\page150\token.cpp(85): warning C4715: “Token_stream::get”: 不是所有的控件路径都返回值
+c:\users\langk\documents\visual studio 2017\projects\page150\page150\源.cpp(54): warning C4715: “primary”: 不是所有的控件路径都返回值
+c:\users\langk\documents\visual studio 2017\projects\page150\page150\源.cpp(137): warning C4715: “get_value”: 不是所有的控件路径都返回值
+  page150.vcxproj -> C:\Users\langk\Documents\Visual Studio 2017\projects\page150\Debug\page150.exe
